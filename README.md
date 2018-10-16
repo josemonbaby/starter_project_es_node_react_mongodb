@@ -136,3 +136,9 @@ Enjoy !
 ## TODO
 1) Token distribution
 2) Express middleware for route specific authentication
+
+#### Sources
+https://medium.com/@xoor/indexing-mongodb-with-elasticsearch-2c428b676343
+https://en.wikipedia.org/wiki/N-gram
+https://docs.mongodb.com/
+https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
